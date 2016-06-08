@@ -1,0 +1,20 @@
+{
+  "current": "custom",
+  "presets": {
+    "custom": {
+      "index_slider_1-link": "",
+      "index_slider_2-link": "",
+      "index_slider_3-link": "",
+      "index_slider_4-link": "",
+      "index_slider_5-link": "",
+      "index_slider-timeout": "6000",
+      "social_group-vk-link": null,
+      "social_group-facebook-link": null,
+      "social_group-twitter-link": null,
+      "social_group-youtube-link": null
+    }
+  },
+  "remote_theme_id": null,
+  "source_account_id": null,
+  "theme_title": "Пользовательская"
+}
